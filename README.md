@@ -1,4 +1,12 @@
-# 🎨 gangz1o-pt-ui  
+> 原仓库 / Upstream: [gangz1o/gptui](https://github.com/gangz1o/gptui)（原作者：Gangz1o）
+>
+> 当前仓库 / This fork: [xchenya/gptui](https://github.com/xchenya/gptui)
+>
+> 本仓库基于原项目进行独立修改与维护，安装及样式获取链接均指向当前仓库；保留原作者署名与 MIT 许可证。
+>
+> This fork is independently modified and maintained. Installation and stylesheet links point to this repository; the original attribution and MIT license are retained.
+
+# 🎨 gptui
 为 NP 架构站点打造现代化 UI，优化视觉体验  图标, 布局, 动画, 全新设计
 A modern UI makeover for NP-based torrent sites.
 
@@ -47,7 +55,7 @@ A modern UI makeover for NP-based torrent sites.
 1. 安装插件后打开 Stylish 页面；
 2. 在「Domains」中添加目标站点域名；
 3. 粘贴以下 CSS 代码并保存样式：
-👉 [获取 CSS 样式](https://github.com/gangz1o/gptui/blob/master/theme.css)
+👉 [获取 CSS 样式](https://github.com/xchenya/gptui/blob/master/theme.css)
 
 #### 🖼 插件操作截图：
 
@@ -101,7 +109,7 @@ You can apply the stylesheet in two different ways:
 1. Open Stylish after installation;
 2. Add the domain you want to style under the "Domains" section;
 3. Paste the CSS code from below and save:
-👉 [Get CSS Stylesheet](https://github.com/gangz1o/gptui/blob/master/theme.css)
+👉 [Get CSS Stylesheet](https://github.com/xchenya/gptui/blob/master/theme.css)
 
 #### 🖼 Screenshots:
 

@@ -1,3 +1,8 @@
+/*
+ * Upstream / 原仓库: https://github.com/gangz1o/gptui
+ * This fork / 当前仓库: https://github.com/xchenya/gptui
+ * Original author: Gangz1o. License: MIT (see LICENSE).
+ */
 @import url('https://fonts.googleapis.com/css2?family=Google+Sans+Code:wght@300..800&display=swap');
 table.searchbox tbody#ksearchboxmain tr td.rowfollow table tbody tr td{
   display: inline-flex;
